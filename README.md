@@ -12,6 +12,7 @@ This project classifies emails as spam or non-spam using Natural Language Proces
 
 ## Dataset
 Spam email dataset sourced from Kaggle.
+Dataset File: mail_data.csv
 
 ## Approach
 - Text preprocessing
